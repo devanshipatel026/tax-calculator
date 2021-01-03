@@ -1,6 +1,6 @@
 # tax-calculator-backend
 
-Set up the repository
+Set up the repository from the master branch
 
 Clone the repository
 
